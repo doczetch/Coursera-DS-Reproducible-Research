@@ -119,4 +119,4 @@ down and find the commit you want and copy the SHA-1 hash.
 
 A valid submission will look something like (this is just an example!)
 
-![screenshot of chunk table1](table1.png)
+![screenshot of chunk table1](table.png)
